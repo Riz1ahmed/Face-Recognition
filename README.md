@@ -5,7 +5,7 @@ This is a Simple prject to Recognize face of persion and find that persion in an
 ![Screenshot](https://github.com/Riz1ahmed/Face-Recognition/blob/main/Screenshot/animationView.gif "Preview")
 
 Matching Faces
-![Screenshot](https://github.com/Riz1ahmed/Face-Recognition/blob/main/Screenshot/match.jpg =500x500)
+![Screenshot](https://github.com/Riz1ahmed/Face-Recognition/blob/main/Screenshot/match.jpg =200x500)
 ![Screenshot](https://github.com/Riz1ahmed/Face-Recognition/blob/main/Screenshot/match2.jpg "Preview")
 ![Screenshot](https://github.com/Riz1ahmed/Face-Recognition/blob/main/Screenshot/match4.jpg "Preview")
 
